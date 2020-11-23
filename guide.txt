@@ -1,0 +1,8 @@
+1-D:\MyProjectDjango>python -m venv ./venv
+2-D:\MyProjectDjango\venv\src>pip install django
+
+know the library installed
+pip freeze > file.txt
+
+
+
